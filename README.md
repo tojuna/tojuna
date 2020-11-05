@@ -4,8 +4,6 @@
 - 📫 How to reach me: [tojuna.github.io/personal-website](https://tojuna.github.io/personal-website)
 - ⚡ Fun fact: I am always working
 
-[Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
-
 ## 🔧 Technologies & Tools
 
 ### Frontend
@@ -32,6 +30,7 @@
 ## Languages
 
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
+![C++](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
 ![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
 
 ### Design
