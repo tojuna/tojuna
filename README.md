@@ -29,9 +29,9 @@
 
 ## Languages
 
-![C](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
-![C++](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
-![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+![C](https://img.shields.io/badge/Language-C-brightgreen)
+![C++](https://img.shields.io/badge/Language-C%2B%2B-brightgreen)
+![Java](https://img.shields.io/badge/Language-Java-brightgreen)
 
 ### Design
 
