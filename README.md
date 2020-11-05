@@ -1,7 +1,7 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
+- 📫 How to reach me: [tojuna.github.io/personal-website](https://tojuna.github.io/personal-website)
 - ⚡ Fun fact: I am always working
 
 [Resume](https://pranjaljain0.github.io/pranjaljain0/Pranjal_Jain_CV.pdf)
@@ -21,20 +21,9 @@
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-### Mobile
-
-![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
-
 ### Database
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-### Deploy
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat-square&logo=netlify)
 
 ### Editors
 
@@ -44,7 +33,6 @@
 
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
 ![Java](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
-![Python](https://img.shields.io/badge/-3d3d3d?style=flat-square&logo=python&logoColor=white&link=https://github.com/pranjaljain0)
 
 ### Design
 
@@ -58,11 +46,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/tojuna/tojuna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tojuna&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
+<a href="https://github.com/tojuna/tojuna">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tojuna&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Anujot's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tojuna.tojuna)
