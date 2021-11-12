@@ -1,7 +1,5 @@
 ### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [tojuna.tech](https://tojuna.tech/)
 - ⚡ Fun fact: I am always working
 
 ## 🔧 Technologies & Tools
